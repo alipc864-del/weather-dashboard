@@ -25,7 +25,7 @@ This project was created to practice JavaScript and responsive web design.
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://YOUR-USERNAME.github.io/weather-dashboard/)
+[View Live Demo](https://alipc864-del.github.io/weather-dashboard/)
 
 ## 👨‍💻 Author
 
